@@ -8,10 +8,7 @@ This is an app to customize a shirt using:
 
 ###### Reference:
 
-
-
-<image src="1716227919746.png" alt="Descripción de la imagen">
-
+<image src="1716227919746.png" alt="Project Image" />
 
 ## Run Project:
 
